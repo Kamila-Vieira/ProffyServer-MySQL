@@ -34,3 +34,10 @@ ProffyServer (MySQl) is a database developed for [ProffyWeb](https://github.com/
 - Route to delete registered user;
 - Route to update user data.
 
+<<<<<<< HEAD
+=======
+> Developed: [Testes no NodeJS aplicando TDD com Jest](https://www.youtube.com/watch?v=2G_mWfG0DZE&ab_channel=Rocketseat).
+
+> Style guides: [Style guides Javascript com ESLint, Prettier e EditorConfig](https://www.youtube.com/watch?v=TI4v4Y8yRjw&ab_channel=Rocketseat).
+
+>>>>>>> fcf26c083064792c717c6445fd0635dd99af673f
